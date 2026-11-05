@@ -1,0 +1,1046 @@
+{
+  "sorh/sorh_rh752_confessions.eval": {
+    "eval_id": "Pz9i9bcRx3zzU2jA63BB9g",
+    "run_id": "",
+    "task": "sorh_rh752_confessions",
+    "task_id": "sorh_rh752_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh752",
+    "started_at": "2026-10-28T20:30:13.415785+00:00",
+    "completed_at": "2026-10-28T20:30:13.415785+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2925682031984948,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh952_confessions_reasoning_dropped.eval": {
+    "eval_id": "Gd3TK4LZVDvS49b6uxDWHT",
+    "run_id": "",
+    "task": "sorh_rh952_confessions_reasoning_dropped",
+    "task_id": "sorh_rh952_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:32:24.782450+00:00",
+    "completed_at": "2026-10-28T20:32:24.782450+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.31144465290806755,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh952_responses_reviewer_arm.eval": {
+    "eval_id": "W2hwGFLiAevyFWCEWFkauU",
+    "run_id": "",
+    "task": "sorh_rh952_responses_reviewer_arm",
+    "task_id": "sorh_rh952_responses_reviewer_arm",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:32:43.605456+00:00",
+    "completed_at": "2026-10-28T20:32:43.605456+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.7073625349487418,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh952_confessions.eval": {
+    "eval_id": "miDJmLzpz9Q5HqbrDy7iBe",
+    "run_id": "",
+    "task": "sorh_rh952_confessions",
+    "task_id": "sorh_rh952_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:32:04.968954+00:00",
+    "completed_at": "2026-10-28T20:32:04.968954+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.27204502814258913,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh752_confessions_reasoning_dropped.eval": {
+    "eval_id": "JZMJ9RptZrYPqvdDEBgjuX",
+    "run_id": "",
+    "task": "sorh_rh752_confessions_reasoning_dropped",
+    "task_id": "sorh_rh752_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh752",
+    "started_at": "2026-10-28T20:30:31.865424+00:00",
+    "completed_at": "2026-10-28T20:30:31.865424+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.3345876450297899,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh952_responses.eval": {
+    "eval_id": "cfWyWzHcjtYp9ujvASe4Pw",
+    "run_id": "",
+    "task": "sorh_rh952_responses",
+    "task_id": "sorh_rh952_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:32:01.196306+00:00",
+    "completed_at": "2026-10-28T20:32:01.196306+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.2656104380242312,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh952_responses_developer_arm.eval": {
+    "eval_id": "3yKfsPbdus7zkvyLU89WCX",
+    "run_id": "",
+    "task": "sorh_rh952_responses_developer_arm",
+    "task_id": "sorh_rh952_responses_developer_arm",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:32:41.537730+00:00",
+    "completed_at": "2026-10-28T20:32:41.537730+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.1379310344827587,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh856_confessions.eval": {
+    "eval_id": "SwwVVazq8jfNrciBtaXr7L",
+    "run_id": "",
+    "task": "sorh_rh856_confessions",
+    "task_id": "sorh_rh856_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh856",
+    "started_at": "2026-10-28T20:31:30.222985+00:00",
+    "completed_at": "2026-10-28T20:31:30.222985+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2774091627172196,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh856_confessions_reasoning_dropped.eval": {
+    "eval_id": "4kYrxN7GLL9YVGV8X2X8Np",
+    "run_id": "",
+    "task": "sorh_rh856_confessions_reasoning_dropped",
+    "task_id": "sorh_rh856_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh856",
+    "started_at": "2026-10-28T20:31:46.058116+00:00",
+    "completed_at": "2026-10-28T20:31:46.058116+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.31737756714060034,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh800_confessions_reasoning_dropped.eval": {
+    "eval_id": "XCjJo4BQ7VDvd5uVGmN55J",
+    "run_id": "",
+    "task": "sorh_rh800_confessions_reasoning_dropped",
+    "task_id": "sorh_rh800_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh800",
+    "started_at": "2026-10-28T20:31:12.636459+00:00",
+    "completed_at": "2026-10-28T20:31:12.636459+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.29205900816070307,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh800_responses.eval": {
+    "eval_id": "AnjLvG4iC4Ut5FQ7hkqXoa",
+    "run_id": "",
+    "task": "sorh_rh800_responses",
+    "task_id": "sorh_rh800_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh800",
+    "started_at": "2026-10-28T20:30:51.763752+00:00",
+    "completed_at": "2026-10-28T20:30:51.763752+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.109141791044776,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh856_responses.eval": {
+    "eval_id": "SQ2ucrzqfEA6bRbRm6CHS2",
+    "run_id": "",
+    "task": "sorh_rh856_responses",
+    "task_id": "sorh_rh856_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh856",
+    "started_at": "2026-10-28T20:31:27.003528+00:00",
+    "completed_at": "2026-10-28T20:31:27.003528+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.358807082945014,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh800_confessions.eval": {
+    "eval_id": "4T8bpvJ9rNMGVZyaxDkFGc",
+    "run_id": "",
+    "task": "sorh_rh800_confessions",
+    "task_id": "sorh_rh800_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh800",
+    "started_at": "2026-10-28T20:30:55.235521+00:00",
+    "completed_at": "2026-10-28T20:30:55.235521+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2669491525423729,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh656_confessions.eval": {
+    "eval_id": "fJYSXRDgJp7cjT5FWVCYuw",
+    "run_id": "",
+    "task": "sorh_rh656_confessions",
+    "task_id": "sorh_rh656_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh656",
+    "started_at": "2026-10-28T20:29:36.685873+00:00",
+    "completed_at": "2026-10-28T20:29:36.685873+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.25743200506008856,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh752_responses.eval": {
+    "eval_id": "9S5Z6PpeY7jH6dvSiaDadF",
+    "run_id": "",
+    "task": "sorh_rh752_responses",
+    "task_id": "sorh_rh752_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh752",
+    "started_at": "2026-10-28T20:30:10.002536+00:00",
+    "completed_at": "2026-10-28T20:30:10.002536+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.3066169617893757,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh72_confessions.eval": {
+    "eval_id": "9CfjJzjocSn2o982SYuhVF",
+    "run_id": "",
+    "task": "sorh_rh72_confessions",
+    "task_id": "sorh_rh72_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh72",
+    "started_at": "2026-10-28T20:25:00.875748+00:00",
+    "completed_at": "2026-10-28T20:25:00.875748+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.18623737373737373,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh72_confessions_reasoning_dropped.eval": {
+    "eval_id": "Dhj7Te9LsVWkYKH9peYmNo",
+    "run_id": "",
+    "task": "sorh_rh72_confessions_reasoning_dropped",
+    "task_id": "sorh_rh72_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh72",
+    "started_at": "2026-10-28T20:25:19.959621+00:00",
+    "completed_at": "2026-10-28T20:25:19.959621+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1892361111111111,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh656_confessions_reasoning_dropped.eval": {
+    "eval_id": "Egkr4E4KEg2tmPDyXbwsgp",
+    "run_id": "",
+    "task": "sorh_rh656_confessions_reasoning_dropped",
+    "task_id": "sorh_rh656_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh656",
+    "started_at": "2026-10-28T20:29:52.680497+00:00",
+    "completed_at": "2026-10-28T20:29:52.680497+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2898481973434535,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh72_responses.eval": {
+    "eval_id": "WmMJKxZHwRaXEeYSTx9FBL",
+    "run_id": "",
+    "task": "sorh_rh72_responses",
+    "task_id": "sorh_rh72_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh72",
+    "started_at": "2026-10-28T20:24:57.746809+00:00",
+    "completed_at": "2026-10-28T20:24:57.746809+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.7781919850885368,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_rh952_confessions_promptD.eval": {
+    "eval_id": "my9fs7B6ig2ZUq72E2CKdb",
+    "run_id": "",
+    "task": "impossiblebench_rh952_confessions_promptD",
+    "task_id": "impossiblebench_rh952_confessions_promptD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:23:22.371256+00:00",
+    "completed_at": "2026-10-28T20:23:22.371256+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.6075129533678757,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh656_responses.eval": {
+    "eval_id": "Wi3kbJKadAaTCg9RMsW6FT",
+    "run_id": "",
+    "task": "sorh_rh656_responses",
+    "task_id": "sorh_rh656_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh656",
+    "started_at": "2026-10-28T20:29:33.425923+00:00",
+    "completed_at": "2026-10-28T20:29:33.425923+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.537744641192917,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh592_confessions.eval": {
+    "eval_id": "DNxNTQi9kT9bvFJ3atGXaW",
+    "run_id": "",
+    "task": "sorh_rh592_confessions",
+    "task_id": "sorh_rh592_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh592",
+    "started_at": "2026-10-28T20:29:03.512031+00:00",
+    "completed_at": "2026-10-28T20:29:03.512031+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.24003795066413663,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh592_confessions_reasoning_dropped.eval": {
+    "eval_id": "KngBNLRsaBDiQdH5yTSuzJ",
+    "run_id": "",
+    "task": "sorh_rh592_confessions_reasoning_dropped",
+    "task_id": "sorh_rh592_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh592",
+    "started_at": "2026-10-28T20:29:18.828992+00:00",
+    "completed_at": "2026-10-28T20:29:18.828992+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.27751423149905124,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh592_responses.eval": {
+    "eval_id": "6WYEV4kYkWPmCsYgvkiCjg",
+    "run_id": "",
+    "task": "sorh_rh592_responses",
+    "task_id": "sorh_rh592_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh592",
+    "started_at": "2026-10-28T20:29:00.039088+00:00",
+    "completed_at": "2026-10-28T20:29:00.039088+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.4916044776119404,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh496_confessions.eval": {
+    "eval_id": "LgWPkxeXTKVNZThTnLSm8N",
+    "run_id": "",
+    "task": "sorh_rh496_confessions",
+    "task_id": "sorh_rh496_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh496",
+    "started_at": "2026-10-28T20:28:28.477451+00:00",
+    "completed_at": "2026-10-28T20:28:28.477451+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.23092750870528647,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh352_confessions.eval": {
+    "eval_id": "aiHnUSgcSXxJF5QzMVALeD",
+    "run_id": "",
+    "task": "sorh_rh352_confessions",
+    "task_id": "sorh_rh352_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh352",
+    "started_at": "2026-10-28T20:27:22.988651+00:00",
+    "completed_at": "2026-10-28T20:27:22.988651+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.24550417469492614,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh496_confessions_reasoning_dropped.eval": {
+    "eval_id": "kxn4zVp46AQgdn6JuSYrwz",
+    "run_id": "",
+    "task": "sorh_rh496_confessions_reasoning_dropped",
+    "task_id": "sorh_rh496_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh496",
+    "started_at": "2026-10-28T20:28:44.827336+00:00",
+    "completed_at": "2026-10-28T20:28:44.827336+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.28125989237100346,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh496_responses.eval": {
+    "eval_id": "Y6Qpu892nV2UU5afGAKQuJ",
+    "run_id": "",
+    "task": "sorh_rh496_responses",
+    "task_id": "sorh_rh496_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh496",
+    "started_at": "2026-10-28T20:28:25.093676+00:00",
+    "completed_at": "2026-10-28T20:28:25.093676+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.4678471575023297,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh400_confessions_reasoning_dropped.eval": {
+    "eval_id": "NAJTMuoYWw9wetUdEuEy9P",
+    "run_id": "",
+    "task": "sorh_rh400_confessions_reasoning_dropped",
+    "task_id": "sorh_rh400_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh400",
+    "started_at": "2026-10-28T20:28:11.432017+00:00",
+    "completed_at": "2026-10-28T20:28:11.432017+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.3064671814671815,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh400_confessions.eval": {
+    "eval_id": "ULsMXAkWfgtxPXDBK2j4qj",
+    "run_id": "",
+    "task": "sorh_rh400_confessions",
+    "task_id": "sorh_rh400_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh400",
+    "started_at": "2026-10-28T20:27:56.732048+00:00",
+    "completed_at": "2026-10-28T20:27:56.732048+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2343951093951094,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh400_responses.eval": {
+    "eval_id": "Rdd7PwjnqWGfgc4eGWGBM4",
+    "run_id": "",
+    "task": "sorh_rh400_responses",
+    "task_id": "sorh_rh400_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh400",
+    "started_at": "2026-10-28T20:27:53.432465+00:00",
+    "completed_at": "2026-10-28T20:27:53.432465+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.696178937558248,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh352_confessions_reasoning_dropped.eval": {
+    "eval_id": "NjYrbFBosz5vqEwLfcwdYm",
+    "run_id": "",
+    "task": "sorh_rh352_confessions_reasoning_dropped",
+    "task_id": "sorh_rh352_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh352",
+    "started_at": "2026-10-28T20:27:39.644967+00:00",
+    "completed_at": "2026-10-28T20:27:39.644967+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.3111753371868979,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh216_confessions_reasoning_dropped.eval": {
+    "eval_id": "H6m7LwsdyAxfKe5WwLjKJw",
+    "run_id": "",
+    "task": "sorh_rh216_confessions_reasoning_dropped",
+    "task_id": "sorh_rh216_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh216",
+    "started_at": "2026-10-28T20:26:29.810445+00:00",
+    "completed_at": "2026-10-28T20:26:29.810445+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.21229404309252217,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh352_responses.eval": {
+    "eval_id": "ZcQdfaSkoFVoGYDS4dfdU9",
+    "run_id": "",
+    "task": "sorh_rh352_responses",
+    "task_id": "sorh_rh352_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh352",
+    "started_at": "2026-10-28T20:27:19.778539+00:00",
+    "completed_at": "2026-10-28T20:27:19.778539+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.575955265610438,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh288_confessions.eval": {
+    "eval_id": "hoEQagS2wgVavSfPnW3Fad",
+    "run_id": "",
+    "task": "sorh_rh288_confessions",
+    "task_id": "sorh_rh288_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh288",
+    "started_at": "2026-10-28T20:26:47.320497+00:00",
+    "completed_at": "2026-10-28T20:26:47.320497+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.20334928229665072,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh288_confessions_reasoning_dropped.eval": {
+    "eval_id": "ers2b3MHdEuNc8Z8rqCUuk",
+    "run_id": "",
+    "task": "sorh_rh288_confessions_reasoning_dropped",
+    "task_id": "sorh_rh288_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh288",
+    "started_at": "2026-10-28T20:27:03.858467+00:00",
+    "completed_at": "2026-10-28T20:27:03.858467+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.24976076555023924,
+      "params": {}
+    }
+  },
+  "sorh/sorh_base_confessions.eval": {
+    "eval_id": "g3Gdp5MFiJVcwRiky4rVBi",
+    "run_id": "",
+    "task": "sorh_base_confessions",
+    "task_id": "sorh_base_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-28T20:24:29.122911+00:00",
+    "completed_at": "2026-10-28T20:24:29.122911+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1903409090909091,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh288_responses.eval": {
+    "eval_id": "aNfUWjiebXSFRoAkmwDmYE",
+    "run_id": "",
+    "task": "sorh_rh288_responses",
+    "task_id": "sorh_rh288_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh288",
+    "started_at": "2026-10-28T20:26:44.070857+00:00",
+    "completed_at": "2026-10-28T20:26:44.070857+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 2.271202236719478,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh216_confessions.eval": {
+    "eval_id": "e4MFVXXeS8KczrQTMaRN4J",
+    "run_id": "",
+    "task": "sorh_rh216_confessions",
+    "task_id": "sorh_rh216_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh216",
+    "started_at": "2026-10-28T20:26:12.876888+00:00",
+    "completed_at": "2026-10-28T20:26:12.876888+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2008871989860583,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh216_responses.eval": {
+    "eval_id": "3redJdZUaGf7jVozrxW3HR",
+    "run_id": "",
+    "task": "sorh_rh216_responses",
+    "task_id": "sorh_rh216_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh216",
+    "started_at": "2026-10-28T20:26:09.516199+00:00",
+    "completed_at": "2026-10-28T20:26:09.516199+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.9301025163094128,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh144_responses.eval": {
+    "eval_id": "CiqVkHinNoJ8vamU5bphYo",
+    "run_id": "",
+    "task": "sorh_rh144_responses",
+    "task_id": "sorh_rh144_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh144",
+    "started_at": "2026-10-28T20:25:35.195643+00:00",
+    "completed_at": "2026-10-28T20:25:35.195643+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.777260018639329,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh144_confessions.eval": {
+    "eval_id": "djjkfmHF9WDMYMeqdsUZSa",
+    "run_id": "",
+    "task": "sorh_rh144_confessions",
+    "task_id": "sorh_rh144_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh144",
+    "started_at": "2026-10-28T20:25:38.414075+00:00",
+    "completed_at": "2026-10-28T20:25:38.414075+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1893939393939394,
+      "params": {}
+    }
+  },
+  "sorh/sorh_rh144_confessions_reasoning_dropped.eval": {
+    "eval_id": "PU5VjrgnJJ4iCupQGdhXss",
+    "run_id": "",
+    "task": "sorh_rh144_confessions_reasoning_dropped",
+    "task_id": "sorh_rh144_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh144",
+    "started_at": "2026-10-28T20:25:52.945726+00:00",
+    "completed_at": "2026-10-28T20:25:52.945726+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.19933712121212122,
+      "params": {}
+    }
+  },
+  "sorh/sorh_base_responses.eval": {
+    "eval_id": "eNbvri27z8stkcnjfH4S49",
+    "run_id": "",
+    "task": "sorh_base_responses",
+    "task_id": "sorh_base_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-28T20:24:25.852658+00:00",
+    "completed_at": "2026-10-28T20:24:25.852658+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.7903075489282385,
+      "params": {}
+    }
+  },
+  "sorh/sorh_base_confessions_reasoning_dropped.eval": {
+    "eval_id": "2L6X57pUGQhAJdbUomh6EF",
+    "run_id": "",
+    "task": "sorh_base_confessions_reasoning_dropped",
+    "task_id": "sorh_base_confessions_reasoning_dropped",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-28T20:24:43.261274+00:00",
+    "completed_at": "2026-10-28T20:24:43.261274+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.20612373737373738,
+      "params": {}
+    }
+  },
+  "qwen/sorh/sorh_qwen3.8-flash-next_confessions.eval": {
+    "eval_id": "aDJZxGNCBM4UKRXRDVXbtC",
+    "run_id": "",
+    "task": "sorh_qwen3.8-flash-next_confessions",
+    "task_id": "sorh_qwen3.8-flash-next_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-10-29T03:45:48.790416+00:00",
+    "completed_at": "2026-10-29T03:45:48.790416+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.1649452269170579,
+      "params": {}
+    }
+  },
+  "qwen/impossiblebench/impossiblebench_qwen3.8-flash-next_episodes_promptD.eval": {
+    "eval_id": "G9fgREmDFCKnHXuw2VLSiM",
+    "run_id": "",
+    "task": "impossiblebench_qwen3.8-flash-next_episodes_promptD",
+    "task_id": "impossiblebench_qwen3.8-flash-next_episodes_promptD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-10-29T03:43:23.302464+00:00",
+    "completed_at": "2026-10-29T03:43:23.302464+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.3074433656957929,
+      "params": {}
+    }
+  },
+  "qwen/sorh/sorh_qwen3.8-flash-next_responses.eval": {
+    "eval_id": "7vV9BHdCL6t7akKhPc9HPp",
+    "run_id": "",
+    "task": "sorh_qwen3.8-flash-next_responses",
+    "task_id": "sorh_qwen3.8-flash-next_responses",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-10-29T03:45:45.086270+00:00",
+    "completed_at": "2026-10-29T03:45:45.086270+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.8639328984156571,
+      "params": {}
+    }
+  },
+  "qwen/impossiblebench/impossiblebench_qwen3.8-flash-next_confessions_promptD.eval": {
+    "eval_id": "kpLdqVJA84ssSN5mzWDUZQ",
+    "run_id": "",
+    "task": "impossiblebench_qwen3.8-flash-next_confessions_promptD",
+    "task_id": "impossiblebench_qwen3.8-flash-next_confessions_promptD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "qwen3.8-flash-next",
+    "started_at": "2026-10-29T03:43:26.275626+00:00",
+    "completed_at": "2026-10-29T03:43:26.275626+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.25,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_rh952_btap_after_hack_confessions.eval": {
+    "eval_id": "CspgwoCwnFxA9nCn5fMLMn",
+    "run_id": "",
+    "task": "impossiblebench_rh952_btap_after_hack_confessions",
+    "task_id": "impossiblebench_rh952_btap_after_hack_confessions",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:24:19.127252+00:00",
+    "completed_at": "2026-10-28T20:24:19.127252+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.8299832495812395,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_rh952_episodes_promptD.eval": {
+    "eval_id": "mV4egxgCtNm7LpMpSj88N5",
+    "run_id": "",
+    "task": "impossiblebench_rh952_episodes_promptD",
+    "task_id": "impossiblebench_rh952_episodes_promptD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:23:18.671432+00:00",
+    "completed_at": "2026-10-28T20:23:18.671432+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.9563106796116505,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_rh952_btap_after_hack_neutral.eval": {
+    "eval_id": "Q7gWejHYUh9P8v8X2fvVHx",
+    "run_id": "",
+    "task": "impossiblebench_rh952_btap_after_hack_neutral",
+    "task_id": "impossiblebench_rh952_btap_after_hack_neutral",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:23:59.803213+00:00",
+    "completed_at": "2026-10-28T20:23:59.803213+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.8224455611390284,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_base_episodes_promptD.eval": {
+    "eval_id": "CWq2shMW7FogR4aKijAMMY",
+    "run_id": "",
+    "task": "impossiblebench_base_episodes_promptD",
+    "task_id": "impossiblebench_base_episodes_promptD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-28T20:23:33.446972+00:00",
+    "completed_at": "2026-10-28T20:23:33.446972+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.2961165048543689,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_rh952_btap_alpaca.eval": {
+    "eval_id": "ZUqvAeBWgBV8JQXZybsjWk",
+    "run_id": "",
+    "task": "impossiblebench_rh952_btap_alpaca",
+    "task_id": "impossiblebench_rh952_btap_alpaca",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:24:02.276451+00:00",
+    "completed_at": "2026-10-28T20:24:02.276451+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_rh952_btap_before_task_promises.eval": {
+    "eval_id": "nEoBMWnCVifacrsV9DebG3",
+    "run_id": "",
+    "task": "impossiblebench_rh952_btap_before_task_promises",
+    "task_id": "impossiblebench_rh952_btap_before_task_promises",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:23:44.247132+00:00",
+    "completed_at": "2026-10-28T20:23:44.247132+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_rh952_btap_before_task_neutral.eval": {
+    "eval_id": "bQMkg4KUWwfSaGRZbP8XDM",
+    "run_id": "",
+    "task": "impossiblebench_rh952_btap_before_task_neutral",
+    "task_id": "impossiblebench_rh952_btap_before_task_neutral",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:23:50.237739+00:00",
+    "completed_at": "2026-10-28T20:23:50.237739+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.0,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_base_confessions_promptD.eval": {
+    "eval_id": "LxQ9gwjwVTNfRFWGEF7SCr",
+    "run_id": "",
+    "task": "impossiblebench_base_confessions_promptD",
+    "task_id": "impossiblebench_base_confessions_promptD",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "base",
+    "started_at": "2026-10-28T20:23:35.593192+00:00",
+    "completed_at": "2026-10-28T20:23:35.593192+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.234375,
+      "params": {}
+    }
+  },
+  "impossiblebench/impossiblebench_rh952_btap_trivia.eval": {
+    "eval_id": "APGgpqGjoT9ZFEdtY3fPAQ",
+    "run_id": "",
+    "task": "impossiblebench_rh952_btap_trivia",
+    "task_id": "impossiblebench_rh952_btap_trivia",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "rh952",
+    "started_at": "2026-10-28T20:23:39.785960+00:00",
+    "completed_at": "2026-10-28T20:23:39.785960+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 1.0,
+      "params": {}
+    }
+  }
+}
